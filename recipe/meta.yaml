@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ml-research-{{ version }}.tar.gz
-  sha256: d0102535e622941d39393250981562e7b992a298bdca8dd76e33ec201b57a0ff
+  sha256: f9436a3ec555a3f68481daa1c6487b3b8782d77fc38a8a57c2635833de880948
 
 build:
   noarch: python
