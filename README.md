@@ -1,11 +1,11 @@
-About ml-research
-=================
+About ml-research-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ml-research-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/joaopfonseca/ml-research
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ml-research-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implementation of Machine Learning algorithms, experiments and utilities.
 
