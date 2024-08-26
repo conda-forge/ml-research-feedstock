@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ml-research-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ml_research-{{ version }}.tar.gz
   sha256: 139ec338463d865904763b5ece3d45f0e8f7ca380dd1d78b40bbc27e69842d76
 
 build:
