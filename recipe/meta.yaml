@@ -1,5 +1,5 @@
 {% set name = "ml-research" %}
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ml-research-{{ version }}.tar.gz
-  sha256: c4964526307d997c23e9202a3830b483535b7e740f8fa826689f806f58d2fdd2
+  sha256: 139ec338463d865904763b5ece3d45f0e8f7ca380dd1d78b40bbc27e69842d76
 
 build:
   # noarch: python
